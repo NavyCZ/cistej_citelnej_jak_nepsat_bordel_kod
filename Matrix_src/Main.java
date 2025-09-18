@@ -39,5 +39,6 @@ public class Main {
         Matrix mC = new Matrix(valuesC);
         System.out.println("Trace C: ");
         System.out.println(mC.getTrace());
+
     }
 }
